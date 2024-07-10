@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803976692292",
+    "project_id": "islamicapp-faf74",
+    "storage_bucket": "islamicapp-faf74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803976692292:android:9e791b60d950704c6c3211",
+        "android_client_info": {
+          "package_name": "com.example.mad_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pwuu9XUZrfFcYwBokYhzwHABE4fp190"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
